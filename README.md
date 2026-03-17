@@ -57,15 +57,6 @@ My work combines machine learning, neural signal processing, and computational n
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andres-aracena&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-aracena&layout=compact" height="150"/>
-</p>
-
----
-
 ## 🌎 Vision
 
 To build scalable neurotechnology systems that integrate machine learning and neuroscience, contributing to global innovation in brain health and cognitive science.
